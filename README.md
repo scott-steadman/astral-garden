@@ -12,6 +12,8 @@ The goal of the project is for AI (Claude and others) to write stories Scott wan
 | `storylines.md` | Guidance for every story, open world questions, story hooks, and the index of formats and storylines. |
 | `storylines/astral-trek/storyline.md` | Astral Trek's own notes: format, ship, captain's habits, Kono, tone, arcs, end-of-episode sections. |
 | `storylines/astral-trek/prompt.md` | The Episode 1 prompt. Give any AI its GitHub URL; it points the AI at the bible and storyline files and holds only what is specific to this episode. |
+| `storylines/astral-trek/drafts/` | Candidate episode drafts, one per AI run, named `NN-model.md` (e.g. `01-claude-opus-5-5.md`). The chosen one is a symlink into `episodes/`. |
+| `storylines/astral-trek/episodes/` | Episodes Scott keeps, named `NN-title-slug.md` (e.g. `01-the-golden-door.md`). The chosen draft moves here; a symlink to it stays in `drafts/`. |
 | `todo.md` | Scott's open decisions and review passes. |
 | `memory/` | Project memory: facts and preferences a new AI session needs. Start with `memory/README.md`. |
 | `CLAUDE.md` | Instructions for AI agents working in this repo. |

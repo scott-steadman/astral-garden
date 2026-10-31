@@ -34,6 +34,8 @@ Everyone else is created in the episodes and recorded here once Scott keeps them
 
 ## Episodes
 
+Kept episodes live in `episodes/` as `NN-title-slug.md` (for example `episodes/01-the-golden-door.md`). Candidate drafts live in `drafts/` as `NN-model.md` (for example `drafts/01-claude-opus-5-5.md`; add `-b`, `-c` for a second or third draft from the same model). When Scott picks a draft, it moves to `episodes/` under its title, a relative symlink takes its place in `drafts/` (`drafts/01-claude-opus-5-5.md` → `../episodes/01-the-golden-door.md`), and the episode is listed here.
+
 None yet. Episode 1 is written from `prompt.md`.
 
 ## Arcs
