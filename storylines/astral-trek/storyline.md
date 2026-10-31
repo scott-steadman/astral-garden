@@ -4,8 +4,10 @@ The episodic storyline in the Astral Garden. Shared world rules live in `../../b
 
 ## Format
 
-- Star Trek-style episodes. Each is self-contained, **up to an hour's read** (at most about 15,000 words), with a light series arc.
+- Star Trek-style episodes. Each is self-contained, **up to an hour's read** (at most about 15,000 words; aim for 10,000 to 12,000), with a light series arc.
+- Timeline: the series begins in **year 1** of the Federation's calendar (stardates like 1.693; bible: Calendar). The Federation is young, so ensouled ships are rare and new. Ships use drones; there are no avatars yet.
 - Structure: Teaser, Acts One to Four, Tag. Episodes usually open with a captain's log to set things up, but that is a habit, not a rule; vary it when another opening works better. Logs can also bridge acts and carry exposition.
+- The captain's log: the captain writes the entry by hand in the logbook, signs it, closes the book and stows it in a compartment in the captain's chair. Its twin logbook at Fleet HQ updates as she writes (bible: Communication).
 - Point of view (each storyline chooses its own; see `storylines.md`): **lower decks.** Arili and Away Team One carry most of the action; the captain and Ship are the big figures above them, with occasional captain-led scenes.
 - Tone: serious stakes, warm crew, regular humor (Kono, Ship, knock-knock jokes). Not grimdark.
 - Blood War (storyline-specific): in Astral Trek, **devils and demons are known** to the Federation, but **the Blood War between them is not**. Glimpses of it can come gradually; Episode 1 doesn't need to show it.
@@ -67,6 +69,19 @@ Other teams: Two and Three (standby, reinforcement), Four and Five (assault with
 
 1. **"The Drifting World"** (`episode-01-the-drifting-world.md`). First contact with Illithus; Quoor's attack on the bridge; Away Team One captures the Abyssal Anchor; Saardsult becomes the first ulitharid and flees. About 10,500 words (within the limit; to be rewritten).
 
+## Arcs
+
+Plots that run across several episodes. Each arc gets its own subsection with:
+
+- **Premise**: the question or threat that drives it, in a sentence or two.
+- **Episodes**: the episodes it runs through so far, and what each one moved forward.
+- **Where it's heading**: the planned turns and ending, if any. Mark anything a writer must not reveal yet.
+- **Status**: planned, running, or finished.
+
+An episode prompt names the arc (or arcs) the episode belongs to. Without one, the episode is a standalone.
+
+No arcs yet: the open threads after the old Episode 1 draft are listed below, but that draft is being replaced.
+
 ## Open questions
 
 - **Illithid food source** (replaces the troglodytes). Options: a second people, the Murmurers, made by Maanzecorian, whose thoughts the illithids feed on (Claude's pick: a moral dilemma for the Federation); cavern thought-gardens; or brain raiders sealed in by Maanzecorian.
@@ -80,3 +95,30 @@ Other teams: Two and Three (standby, reinforcement), Four and Five (assault with
 4. Saardsult and its cursed followers.
 5. Orcus's grudge against Maanzecorian, and what it means for the Federation.
 6. Avatars (see the bible): not available yet in year 1, so Ship uses drones. The Federation debate over growing empty "biological vessels" could become an episode or arc, with Ship as an eager voice for them.
+
+## After each episode
+
+Every episode ends with these three sections, each under its own heading, after the story itself.
+
+### 1. Metadata
+
+A short table:
+
+- Model: the exact name and version of the model that wrote this. If you aren't sure, write "unknown" rather than guess.
+- Effort: the reasoning or effort setting you ran at (for example low, medium, high, or max). If you can't tell, write "unknown".
+- Title, and a one-sentence logline
+- Stardate(s) covered
+- Word count
+- Planar system(s) and locations visited
+- Point-of-view characters
+- Themes
+- New canon introduced: every place, people, god, object, spell, or rule you invented, one line each, marked **storyline-only** or **world-level** (a world-level fact would belong in the bible)
+- Open threads left for later episodes
+
+### 2. Character details
+
+For every named character who appears, including any you invented, list what is true about them but **not shown in the story**: appearance details, D&D race, class and approximate level, background, what they want, what they fear, secrets, and relationships to other characters. Mark anything that contradicts or extends this file.
+
+### 3. Story beats by plot
+
+Name each plot (A-plot, B-plot, and so on) with a one-line summary. Under each, list its beats in order. For each beat give: where it falls in the story (section or scene), the characters involved, and one or two sentences on what happens and what changes. End with a short note on how the plots intersect.

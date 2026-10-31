@@ -10,6 +10,8 @@ How stories in the Astral Garden are written: guidance for every storyline, open
 - Federation knowledge: how much of the bible the Federation knows (the Blood War, for example) is set per storyline, in its `storyline.md` file.
 - Ships switching vessels: nothing prevents a ship's soul from switching between a phylactery and reincarnation, so further down the timeline there may be ships that have switched, one way or the other (bible: Ships, Ensouled ships).
 - Ships talking to each other: stories can include scenes of ensouled and organic ships talking among themselves about what they've discovered.
+- Terminology: say "whole soul", never "un-sundered". Keep the three kinds of instant travel distinct: *shifting*, *teleporting* and *portaling* (bible: Instant travel).
+- Characters' abilities should be recognizable as D&D 5e classes and spells, but never weaken a scene to keep it rules-accurate.
 - Try to keep it playable, but story comes first. Stories may later be adapted into D&D adventures or campaigns, and adapting a great story beats forcing a story into a playable shape. Never let playability restrict the story.
 
 ## Open questions
@@ -73,7 +75,7 @@ A self-contained story, **up to an hour's read** (at most about 15,000 words). E
 
 ### Episodic
 
-A series of short form stories (episodes), each up to an hour's read. Every episode tells one or more plots, and arcs can run across several episodes.
+A series of short form stories (episodes), each up to an hour's read. Every episode tells one or more plots, and arcs can run across several episodes; each storyline records its arcs in its `storyline.md` file.
 
 - **Astral Trek**: Star Trek style. `storylines/astral-trek/storyline.md`. Status: Episode 1 drafted (to be rewritten).
 

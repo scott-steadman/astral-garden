@@ -10,9 +10,9 @@ The goal of the project is for AI (Claude and others) to write stories Scott wan
 | --- | --- |
 | `bible.md` | The world bible. World-level rules only: the astral sea, gods, souls, magic, the Federation and Fleet, fiends, known planar systems. |
 | `storylines.md` | Guidance for every story, open world questions, story hooks, and the index of formats and storylines. |
-| `storylines/astral-trek/storyline.md` | Astral Trek's own notes: format, ship, crew, tone, open threads. |
+| `storylines/astral-trek/storyline.md` | Astral Trek's own notes: format, ship, crew, tone, multi-episode arcs, open threads. |
 | `storylines/astral-trek/episode-01-the-drifting-world.md` | Episode 1 draft (Illithus first contact). Due to be rewritten from scratch. |
-| `storylines/astral-trek/prompt.md` | A self-contained prompt for having any AI write Episode 1. |
+| `storylines/astral-trek/prompt.md` | The Episode 1 prompt. Give any AI its hosted URL; it points the AI at the bible and storyline files and holds only what is specific to this episode. |
 | `todo.md` | Scott's open decisions and review passes. |
 | `notes/source-uploads.md` | Notes on Scott's original Astral Trek PDFs (outline, pre-review draft, coach-revised final). The PDFs are not in this repo. |
 | `memory/` | Project memory: facts and preferences a new AI session needs. Start with `memory/README.md`. |
