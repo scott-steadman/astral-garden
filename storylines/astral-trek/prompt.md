@@ -6,11 +6,11 @@ You are writing **Episode 1 of Astral Trek**, an episodic fantasy series in the 
 
 Read these three files completely before you write anything. They are canon: follow them wherever this prompt is silent, and where this prompt differs, this prompt wins.
 
-1. https://www.stdmn.com/astral-garden/bible.md: world rules (the astral sea, gods, souls, magic, the Federation, fiends).
-2. https://www.stdmn.com/astral-garden/storylines.md: theme and writing guidance for every story in the setting.
-3. https://www.stdmn.com/astral-garden/storylines/astral-trek/storyline.md: Astral Trek's format, length, timeline, tone, ship and crew, and the sections every episode ends with.
+1. https://raw.githubusercontent.com/scott-steadman/astral-garden/main/bible.md: world rules (the astral sea, gods, souls, magic, the Federation, fiends).
+2. https://raw.githubusercontent.com/scott-steadman/astral-garden/main/storylines.md: theme and writing guidance for every story in the setting.
+3. https://raw.githubusercontent.com/scott-steadman/astral-garden/main/storylines/astral-trek/storyline.md: Astral Trek's format, length, timeline, tone, ship and crew, and the sections every episode ends with.
 
-Inside the files, paths are relative to https://www.stdmn.com/astral-garden/ (so `bible.md` is file 1 above, and `storylines/astral-trek/storyline.md` is file 3).
+Inside the files, paths are relative to https://raw.githubusercontent.com/scott-steadman/astral-garden/main/ (so `bible.md` is file 1 above, and `storylines/astral-trek/storyline.md` is file 3).
 
 ## This episode
 
@@ -23,7 +23,7 @@ Make up everyone else: the captain (with the habits the storyline file lists), t
 ### Scenes
 
 1. **Open with the captain's log**, written and stowed the way the storyline file describes, including the twin logbook at Fleet HQ updating.
-2. **Ship opens a portal** with his golden-door entrance (destination is your choice), wherever it serves the story best. Let the crew react to it.
+2. **Ship opens a portal** with his golden-door entrance (destination is your choice), wherever it serves the story best. Let characters react to it.
 
 ### Your choice
 

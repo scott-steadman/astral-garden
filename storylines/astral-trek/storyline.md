@@ -5,12 +5,13 @@ The episodic storyline in the Astral Garden. Shared world rules live in `../../b
 ## Format
 
 - Star Trek-style episodes. Each is self-contained, **up to an hour's read** (at most about 15,000 words; aim for 10,000 to 12,000), with a light series arc.
+- Tone: serious stakes, warm crew, regular humor (Kono, Ship's showing off). Not grimdark.
 - Timeline: the series begins in **year 1** of the Federation's calendar (stardates like 1.693; bible: Calendar). The Federation is young, so ensouled ships are rare and new. Ships use drones; there are no avatars yet.
-- Structure: Teaser, Acts One to Four, Tag. Episodes usually open with a captain's log to set things up, but that is a habit, not a rule; vary it when another opening works better. Logs can also bridge acts and carry exposition.
+- Structure: Episodes usually open with a captain's log to set things up, but that is a habit, not a rule; vary it when another opening works better. Logs can also bridge scenes and carry exposition.
 - The captain's log: the captain writes the entry by hand in the logbook, signs it, closes the book and stows it in a compartment in the captain's chair. Its twin logbook at Fleet HQ updates as the captain writes (bible: Communication).
-- Tone: serious stakes, warm crew, regular humor (Kono, Ship's showing off, the captain's knock-knock jokes). Not grimdark.
 - Blood War (storyline-specific): in Astral Trek, **devils and demons are known** to the Federation, but **the Blood War between them is not**. Glimpses of it can come gradually.
-- Quiet circle (storyline-specific): the crew and Ship don't know it exists. The audience may glimpse it, for example in a cold open.
+- Quiet circle (storyline-specific): doesn't exist yet.
+- Characters' abilities should be recognizable as D&D 5e classes and spells, but never weaken a scene to keep it rules-accurate.
 
 ## The ship: *Tranelis Selevarun*
 
@@ -24,11 +25,10 @@ The episodic storyline in the Astral Garden. Shared world rules live in `../../b
 
 **The captain.** Not yet created; the writer of Episode 1 invents them. Whoever they are, they keep these habits:
 
-- Dry humor: tells knock-knock jokes to Ship's drone.
-- Numbers away teams plainly (Team One, Team Four), true to a military bearing; any nicknames come from the crew.
-- Senses alignment by smell: good is clean like air after rain, evil is sulphur, the Abyss is rot and furnaces.
+- 5e Paladin archetype.
+- Senses alignment by smell.
 
-**Kono** (he). Faerie dragon, ship's mascot. Gossamer wings flapped for show. Hunts the ship's rodents ("that was just an appetizer"). Gives crewmates nicknames (a gnome is "gnomie").
+**Kono**. Faerie dragon, ship's mascot. Gossamer wings flapped for show. Hunts the ship's rodents. Gives crewmates nicknames.
 
 Everyone else is created in the episodes and recorded here once Scott keeps them.
 
@@ -51,7 +51,7 @@ No arcs yet.
 
 ## Open questions
 
-- **Ship's bard level**, then (in life) and now.
+- **Ship's bard level**, in life and now.
 
 ## After each episode
 
@@ -74,8 +74,8 @@ A short table:
 
 ### 2. Character details
 
-For every named character who appears, including any you invented, list what is true about them but **not shown in the story**: appearance details, D&D race, class and approximate level, background, what they want, what they fear, secrets, and relationships to other characters. Mark anything that contradicts or extends this file.
+For every named character who appears, including any you invented, list what is true about them but **not shown in the story**: appearance details, D&D race (if appropriate), class and approximate level (if appropriate), background, what they want, what they fear, secrets, and relationships to other characters. Mark anything that contradicts or extends this file.
 
 ### 3. Story beats by plot
 
-Name each plot (A-plot, B-plot, and so on) with a one-line summary. Under each, list its beats in order. For each beat give: where it falls in the story (section or scene), the characters involved, and one or two sentences on what happens and what changes. End with a short note on how the plots intersect.
+Name each plot (A-plot, B-plot, and so on) with a one-line summary. Under each, list its beats in order. For each beat give: where it falls in the story (section or scene), the characters involved, and one or two sentences on what happens and what changes. End with a short note on how the plots intersect if they do.

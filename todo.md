@@ -23,7 +23,7 @@ Open decisions and next steps. Check items off (`[x]`) or tell Claude, and Claud
 ## Episode 1
 
 - [ ] **Finish the Astral Trek pass above.**
-- [ ] **Generate Episode 1**: give an AI the hosted URL of `storylines/astral-trek/prompt.md`.
+- [ ] **Generate Episode 1**: give an AI the GitHub URL of `storylines/astral-trek/prompt.md`.
 
 ## Housekeeping
 

@@ -11,7 +11,7 @@ The goal of the project is for AI (Claude and others) to write stories Scott wan
 | `bible.md` | The world bible. World-level rules only: the astral sea, gods, souls, magic, the Federation and Fleet, fiends, known planar systems. |
 | `storylines.md` | Guidance for every story, open world questions, story hooks, and the index of formats and storylines. |
 | `storylines/astral-trek/storyline.md` | Astral Trek's own notes: format, ship, captain's habits, Kono, tone, arcs, end-of-episode sections. |
-| `storylines/astral-trek/prompt.md` | The Episode 1 prompt. Give any AI its hosted URL; it points the AI at the bible and storyline files and holds only what is specific to this episode. |
+| `storylines/astral-trek/prompt.md` | The Episode 1 prompt. Give any AI its GitHub URL; it points the AI at the bible and storyline files and holds only what is specific to this episode. |
 | `todo.md` | Scott's open decisions and review passes. |
 | `memory/` | Project memory: facts and preferences a new AI session needs. Start with `memory/README.md`. |
 | `CLAUDE.md` | Instructions for AI agents working in this repo. |
@@ -36,10 +36,11 @@ Each storyline has its own `storylines/<name>/storyline.md` file.
 - **Terminology**: say "whole soul", never "un-sundered". *Shifting* is an instant move between ships or planes; *teleporting* is an instant move within one plane or ship; *portaling* (dimension door) opens a walk-through passage between ships or planes.
 - **Story first.** Stories may later be adapted into D&D adventures, so keep them playable where it's free, but never let playability limit the story.
 
-## Hosted copies
+## GitHub URLs
 
-Scott hosts copies of the main files for other AIs to read:
+AIs read the main files straight from GitHub, so there is nothing to upload separately:
 
-- https://www.stdmn.com/astral-garden/bible.md
-- https://www.stdmn.com/astral-garden/storylines.md
-- https://www.stdmn.com/astral-garden/storylines/astral-trek/storyline.md
+- https://raw.githubusercontent.com/scott-steadman/astral-garden/main/bible.md
+- https://raw.githubusercontent.com/scott-steadman/astral-garden/main/storylines.md
+- https://raw.githubusercontent.com/scott-steadman/astral-garden/main/storylines/astral-trek/storyline.md
+- https://raw.githubusercontent.com/scott-steadman/astral-garden/main/storylines/astral-trek/prompt.md (give this one to the AI)

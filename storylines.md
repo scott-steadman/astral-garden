@@ -11,8 +11,8 @@ How stories in the Astral Garden are written: guidance for every storyline, open
 - Ships switching vessels: nothing prevents a ship's soul from switching between a phylactery and reincarnation, so further down the timeline there may be ships that have switched, one way or the other (bible: Ships, Ensouled ships).
 - Ships talking to each other: stories can include scenes of ensouled and organic ships talking among themselves about what they've discovered, for example over a conference call. Such a scene makes a good cold open.
 - Terminology: say "whole soul", never "un-sundered". Keep the three kinds of instant travel distinct: *shifting*, *teleporting* and *portaling* (bible: Instant travel).
-- Characters' abilities should be recognizable as D&D 5e classes and spells, but never weaken a scene to keep it rules-accurate.
-- Try to keep it playable, but story comes first. Stories may later be adapted into D&D adventures or campaigns, and adapting a great story beats forcing a story into a playable shape. Never let playability restrict the story.
+- Keep it loosely based on D&D 5e.
+- Try to make it playable, but story comes first. Stories may later be adapted into D&D adventures or campaigns, and adapting a great story beats forcing a story into a playable shape. Never let playability restrict the story.
 
 ## Open questions
 
@@ -26,6 +26,32 @@ World questions deliberately left for a story to answer. When a story settles on
 - Why there are only nine Hells (a religious reason, a limit on the devils' power, or something else).
 - Whether the Styx strips memories.
 - See also the hooks below.
+
+## Formats and storylines
+
+There are five **formats**. Each story series within a format is a **storyline** with its own name and its own `storyline.md` file.
+
+### Short form
+
+A self-contained story, **up to an hour's read** (at most about 15,000 words). Each storyline can set its own target within that.
+
+### Episodic
+
+A series of short form stories (episodes), each up to an hour's read. Every episode tells one or more plots, and arcs can run across several episodes; each storyline records its arcs in its `storyline.md` file.
+
+- **Astral Trek**: Star Trek style. `storylines/astral-trek/storyline.md`. Status: Episode 1 prompt ready (`storylines/astral-trek/prompt.md`).
+
+### Long form
+
+A novella or novel: one arc told in chapters, with room for deeper characters and slower reveals.
+
+### Adventure
+
+A playable D&D 5e module of one to three sessions, usually adapted from a favorite story (for example, an Astral Trek episode). A natural default shape: an adventure hook, locations with keyed areas, encounters with stat references, NPC motives, and a five-room-dungeon structure. Try to keep it playable, but story comes first.
+
+### Campaign
+
+A long playable D&D 5e arc that strings adventures together around a central threat.
 
 ## Hooks
 
@@ -65,28 +91,4 @@ The River Styx wanders, and for a while its course sweeps through an innocent pl
 
 A character idea: a soul that didn't want to become a ship, but wanted to keep journeying with someone, so it chose to live in a phylactery attuned to a drone instead. That someone is a ship or a crewmate, and the soul could be their **friend, lover or spouse**, or an **enemy** who came along to taunt them. It travels as the drone, small and overlooked by everyone else. A **curse** may be involved: the soul, or the person it follows, may be bound to the other against their will.
 
-## Formats and storylines
 
-There are five **formats**. Each story series within a format is a **storyline** with its own name and its own `storyline.md` file.
-
-### Short form
-
-A self-contained story, **up to an hour's read** (at most about 15,000 words). Each storyline can set its own target within that.
-
-### Episodic
-
-A series of short form stories (episodes), each up to an hour's read. Every episode tells one or more plots, and arcs can run across several episodes; each storyline records its arcs in its `storyline.md` file.
-
-- **Astral Trek**: Star Trek style. `storylines/astral-trek/storyline.md`. Status: Episode 1 prompt ready (`storylines/astral-trek/prompt.md`).
-
-### Long form
-
-A novella or novel: one arc told in chapters, with room for deeper characters and slower reveals.
-
-### Adventure
-
-A playable D&D 5e module of one to three sessions, usually adapted from a favorite story (for example, an Astral Trek episode). A natural default shape: an adventure hook, locations with keyed areas, encounters with stat references, NPC motives, and a five-room-dungeon structure. Try to keep it playable, but story comes first.
-
-### Campaign
-
-A long playable D&D 5e arc that strings adventures together around a central threat.
