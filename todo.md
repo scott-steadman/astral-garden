@@ -18,11 +18,11 @@ Open decisions and next steps. Check items off (`[x]`) or tell Claude, and Claud
 
 - [x] **Final bible pass** (`bible.md`).
 - [x] **Storylines pass** (`storylines.md`; finished 2026-10-13).
-- [ ] **Astral Trek pass** (`storylines/astral-trek/storyline.md`).
+- [x] **Astral Trek pass** (`storylines/astral-trek/storyline.md`; finished 2026-10-31).
 
 ## Episode 1
 
-- [ ] **Finish the Astral Trek pass above.**
+- [x] **Finish the Astral Trek pass above.**
 - [ ] **Generate Episode 1**: give an AI the GitHub URL of `storylines/astral-trek/prompt.md`.
 
 ## Housekeeping
