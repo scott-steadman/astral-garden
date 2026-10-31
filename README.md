@@ -44,3 +44,15 @@ AIs read the main files straight from GitHub, so there is nothing to upload sepa
 - https://raw.githubusercontent.com/scott-steadman/astral-garden/main/storylines.md
 - https://raw.githubusercontent.com/scott-steadman/astral-garden/main/storylines/astral-trek/storyline.md
 - https://raw.githubusercontent.com/scott-steadman/astral-garden/main/storylines/astral-trek/prompt.md (give this one to the AI)
+
+## Generating an episode
+
+Paste this into an AI chat that can open web links:
+
+```
+Read this file and follow its instructions exactly. It links to three more files: read those completely too before you start writing.
+
+https://raw.githubusercontent.com/scott-steadman/astral-garden/main/storylines/astral-trek/prompt.md
+```
+
+If the AI can't open links, attach or paste the prompt and the three files it links to (`bible.md`, `storylines.md`, `storylines/astral-trek/storyline.md`) instead.
