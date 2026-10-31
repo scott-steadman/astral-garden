@@ -34,7 +34,7 @@ Everyone else is created in the episodes and recorded here once Scott keeps them
 
 ## Episodes
 
-Kept episodes live in `episodes/` as `NN-title-slug.md` (for example `episodes/01-the-golden-door.md`). Candidate drafts live in `drafts/` as `NN-model.md` (for example `drafts/01-claude-opus-5-5.md`; add `-b`, `-c` for a second or third draft from the same model). When Scott picks a draft, it moves to `episodes/` under its title, a relative symlink takes its place in `drafts/` (`drafts/01-claude-opus-5-5.md` → `../episodes/01-the-golden-door.md`), and the episode is listed here.
+Kept episodes live in `episodes/` as `NN-title-slug.md` (for example `episodes/01-the-golden-door.md`). Candidate drafts are saved as `drafts/new.md` and renamed from their metadata to `drafts/NN-model.md` (for example `drafts/01-claude-opus-5-5.md`; add `-b`, `-c` for a second or third draft from the same model). When Scott picks a draft, it moves to `episodes/` under its title, a relative symlink takes its place in `drafts/` (`drafts/01-claude-opus-5-5.md` → `../episodes/01-the-golden-door.md`), and the episode is listed here.
 
 None yet. Episode 1 is written from `prompt.md`.
 
@@ -63,6 +63,7 @@ Every episode ends with these three sections, each under its own heading, after 
 
 A short table:
 
+- Episode: the episode number this prompt asked for
 - Model: the exact name and version of the model that wrote this. If you aren't sure, write "unknown" rather than guess.
 - Effort: the reasoning or effort setting you ran at (for example low, medium, high, or max). If you can't tell, write "unknown".
 - Title, and a one-sentence logline

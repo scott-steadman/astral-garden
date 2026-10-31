@@ -6,4 +6,5 @@ This repo holds Scott's Astral Garden setting and the stories written in it. Rea
 - Keep the bible world-level. Story-specific material goes in the storyline file.
 - When Scott decides something, update the matching bible section and check the item off in `todo.md`.
 - Scott often answers setting questions with "your pick": offer one recommended option and let them defer or override.
+- For episode drafts (adding, choosing a winner, keeping it, incorporating it), follow `workflow.md`. Never change canon files from a draft until Scott approves the checklist.
 - Write new lasting facts into `memory/` (one file per subject) so the next session doesn't have to ask again.

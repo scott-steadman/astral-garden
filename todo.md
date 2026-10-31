@@ -23,7 +23,7 @@ Open decisions and next steps. Check items off (`[x]`) or tell Claude, and Claud
 ## Episode 1
 
 - [x] **Finish the Astral Trek pass above.**
-- [ ] **Generate Episode 1**: give an AI the GitHub URL of `storylines/astral-trek/prompt.md` (see README, *Generating an episode*). Save each result as `storylines/astral-trek/drafts/01-<model>.md`, then pick one, move it into `episodes/` and leave a symlink in `drafts/`.
+- [ ] **Generate Episode 1**: paste the text from `storylines/astral-trek/README.md` into an AI. Save each result as `storylines/astral-trek/drafts/new.md` and tell Claude "add draft"; then follow `workflow.md`.
 
 ## Housekeeping
 

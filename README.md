@@ -10,9 +10,11 @@ The goal of the project is for AI (Claude and others) to write stories Scott wan
 | --- | --- |
 | `bible.md` | The world bible. World-level rules only: the astral sea, gods, souls, magic, the Federation and Fleet, fiends, known planar systems. |
 | `storylines.md` | Guidance for every story, open world questions, story hooks, and the index of formats and storylines. |
+| `workflow.md` | How an AI draft becomes canon: add a draft, choose a winner, keep it, incorporate it. For every storyline. |
+| `storylines/astral-trek/README.md` | Astral Trek's landing page: the text to paste into an AI, and the GitHub URLs. |
 | `storylines/astral-trek/storyline.md` | Astral Trek's own notes: format, ship, captain's habits, Kono, tone, arcs, end-of-episode sections. |
-| `storylines/astral-trek/prompt.md` | The Episode 1 prompt. Give any AI its GitHub URL; it points the AI at the bible and storyline files and holds only what is specific to this episode. |
-| `storylines/astral-trek/drafts/` | Candidate episode drafts, one per AI run, named `NN-model.md` (e.g. `01-claude-opus-5-5.md`). The chosen one is a symlink into `episodes/`. |
+| `storylines/astral-trek/prompt.md` | The prompt for the next episode. An AI fetches it by GitHub URL; it points the AI at the bible and storyline files and holds only what is specific to that episode. |
+| `storylines/astral-trek/drafts/` | Candidate episode drafts, one per AI run. Save a new one as `new.md`; Claude renames it `NN-model.md` (e.g. `01-claude-opus-5-5.md`). The chosen one is a symlink into `episodes/`. See `workflow.md`. |
 | `storylines/astral-trek/episodes/` | Episodes Scott keeps, named `NN-title-slug.md` (e.g. `01-the-golden-door.md`). The chosen draft moves here; a symlink to it stays in `drafts/`. |
 | `todo.md` | Scott's open decisions and review passes. |
 | `memory/` | Project memory: facts and preferences a new AI session needs. Start with `memory/README.md`. |
@@ -37,24 +39,3 @@ Each storyline has its own `storylines/<name>/storyline.md` file.
 - **Open questions** in `storylines.md` are left for stories to answer; when one is answered, record it in the bible.
 - **Terminology**: say "whole soul", never "un-sundered". *Shifting* is an instant move between ships or planes; *teleporting* is an instant move within one plane or ship; *portaling* (dimension door) opens a walk-through passage between ships or planes.
 - **Story first.** Stories may later be adapted into D&D adventures, so keep them playable where it's free, but never let playability limit the story.
-
-## GitHub URLs
-
-AIs read the main files straight from GitHub, so there is nothing to upload separately:
-
-- https://raw.githubusercontent.com/scott-steadman/astral-garden/main/bible.md
-- https://raw.githubusercontent.com/scott-steadman/astral-garden/main/storylines.md
-- https://raw.githubusercontent.com/scott-steadman/astral-garden/main/storylines/astral-trek/storyline.md
-- https://raw.githubusercontent.com/scott-steadman/astral-garden/main/storylines/astral-trek/prompt.md (give this one to the AI)
-
-## Generating an episode
-
-Paste this into an AI chat that can open web links:
-
-```
-Read this file and follow its instructions exactly. It links to three more files: read those completely too before you start writing.
-
-https://raw.githubusercontent.com/scott-steadman/astral-garden/main/storylines/astral-trek/prompt.md
-```
-
-If the AI can't open links, attach or paste the prompt and the three files it links to (`bible.md`, `storylines.md`, `storylines/astral-trek/storyline.md`) instead.
