@@ -1,6 +1,6 @@
 # Project: goal, plan, status
 
-- **Owner**: Scott (private project).
+- **Owner**: Scott (private project). Repo: private GitHub repo `scott-steadman/astral-garden`. Git history deliberately keeps the original story (Scott, 2026-10-31); don't rewrite it.
 - **Goal**: AI writes fiction Scott wants to read, set in the Astral Garden, a world Scott designed (D&D 5e mashed up with Iain Banks' Culture).
 - **Plan**: finish the review passes, then have AIs write Astral Trek episodes from `../storylines/astral-trek/prompt.md`, given by its hosted URL.
 - **Status (2026-10-31)**: bible and storylines passes done; Astral Trek pass still open (`../todo.md`). The repo was cleared of Scott's original story and the old Episode 1 draft (see [[astral-trek]]).
