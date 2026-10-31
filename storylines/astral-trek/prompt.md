@@ -14,16 +14,11 @@ Inside the files, paths are relative to https://www.stdmn.com/astral-garden/ (so
 
 ## This episode
 
-This is a fresh start for the series. The storyline file still describes an earlier Episode 1 draft: its crew, Illithus, its villains, and the open threads after it. That draft is being replaced, so ignore all of it except what this prompt asks for.
-
 ### Characters
 
-Use these two, as the storyline file describes them:
+Use **Tranelis Selevarun** (Ship) and **Kono**, the ship's faerie dragon mascot, as the storyline file describes them.
 
-- **Tranelis Selevarun** (Ship).
-- **Kono**, the ship's faerie dragon mascot.
-
-Make up everyone else: the captain, the rest of the crew, locals, villains, other ships.
+Make up everyone else: the captain (with the habits the storyline file lists), the rest of the crew, locals, villains, other ships.
 
 ### Scenes
 

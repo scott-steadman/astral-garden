@@ -10,11 +10,9 @@ The goal of the project is for AI (Claude and others) to write stories Scott wan
 | --- | --- |
 | `bible.md` | The world bible. World-level rules only: the astral sea, gods, souls, magic, the Federation and Fleet, fiends, known planar systems. |
 | `storylines.md` | Guidance for every story, open world questions, story hooks, and the index of formats and storylines. |
-| `storylines/astral-trek/storyline.md` | Astral Trek's own notes: format, ship, crew, tone, multi-episode arcs, open threads. |
-| `storylines/astral-trek/episode-01-the-drifting-world.md` | Episode 1 draft (Illithus first contact). Due to be rewritten from scratch. |
+| `storylines/astral-trek/storyline.md` | Astral Trek's own notes: format, ship, captain's habits, Kono, tone, arcs, end-of-episode sections. |
 | `storylines/astral-trek/prompt.md` | The Episode 1 prompt. Give any AI its hosted URL; it points the AI at the bible and storyline files and holds only what is specific to this episode. |
 | `todo.md` | Scott's open decisions and review passes. |
-| `notes/source-uploads.md` | Notes on Scott's original Astral Trek PDFs (outline, pre-review draft, coach-revised final). The PDFs are not in this repo. |
 | `memory/` | Project memory: facts and preferences a new AI session needs. Start with `memory/README.md`. |
 | `CLAUDE.md` | Instructions for AI agents working in this repo. |
 
@@ -45,5 +43,3 @@ Scott hosts copies of the main files for other AIs to read:
 - https://www.stdmn.com/astral-garden/bible.md
 - https://www.stdmn.com/astral-garden/storylines.md
 - https://www.stdmn.com/astral-garden/storylines/astral-trek/storyline.md
-
-The hosted Astral Trek storyline file may be trimmed relative to the one here (Scott cut it down to match the Episode 1 prompt, which leaves most characters to the writer).

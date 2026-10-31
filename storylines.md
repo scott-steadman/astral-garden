@@ -5,11 +5,11 @@ How stories in the Astral Garden are written: guidance for every storyline, open
 ## Guidance for every storyline
 
 - Theme: **the role of reason in a world of magic.** Problems are solved by someone understanding how a thing works, not only by hitting harder.
-- Writing-coach notes: every scene advances the story and is interesting on its own; add sounds and smells, especially in character introductions; long sentences slow pace, short ones speed it; flashbacks and introspection slow pace.
+- Craft: every scene advances the story and is interesting on its own; add sounds and smells, especially in character introductions; long sentences slow pace, short ones speed it; flashbacks and introspection slow pace.
 - Point of view: each storyline (and format) chooses its own, recorded in its `storyline.md` file.
 - Federation knowledge: how much of the bible the Federation knows (the Blood War, for example) is set per storyline, in its `storyline.md` file.
 - Ships switching vessels: nothing prevents a ship's soul from switching between a phylactery and reincarnation, so further down the timeline there may be ships that have switched, one way or the other (bible: Ships, Ensouled ships).
-- Ships talking to each other: stories can include scenes of ensouled and organic ships talking among themselves about what they've discovered.
+- Ships talking to each other: stories can include scenes of ensouled and organic ships talking among themselves about what they've discovered, for example over a conference call. Such a scene makes a good cold open.
 - Terminology: say "whole soul", never "un-sundered". Keep the three kinds of instant travel distinct: *shifting*, *teleporting* and *portaling* (bible: Instant travel).
 - Characters' abilities should be recognizable as D&D 5e classes and spells, but never weaken a scene to keep it rules-accurate.
 - Try to keep it playable, but story comes first. Stories may later be adapted into D&D adventures or campaigns, and adapting a great story beats forcing a story into a playable shape. Never let playability restrict the story.
@@ -77,7 +77,7 @@ A self-contained story, **up to an hour's read** (at most about 15,000 words). E
 
 A series of short form stories (episodes), each up to an hour's read. Every episode tells one or more plots, and arcs can run across several episodes; each storyline records its arcs in its `storyline.md` file.
 
-- **Astral Trek**: Star Trek style. `storylines/astral-trek/storyline.md`. Status: Episode 1 drafted (to be rewritten).
+- **Astral Trek**: Star Trek style. `storylines/astral-trek/storyline.md`. Status: Episode 1 prompt ready (`storylines/astral-trek/prompt.md`).
 
 ### Long form
 
@@ -85,7 +85,7 @@ A novella or novel: one arc told in chapters, with room for deeper characters an
 
 ### Adventure
 
-A playable D&D 5e module of one to three sessions, usually adapted from a favorite story (for example, an Astral Trek episode). A natural default shape: an adventure hook, locations with keyed areas, encounters with stat references, NPC motives, and a five-room-dungeon structure (the original outline already sketched Episode 1 that way). Try to keep it playable, but story comes first.
+A playable D&D 5e module of one to three sessions, usually adapted from a favorite story (for example, an Astral Trek episode). A natural default shape: an adventure hook, locations with keyed areas, encounters with stat references, NPC motives, and a five-room-dungeon structure. Try to keep it playable, but story comes first.
 
 ### Campaign
 

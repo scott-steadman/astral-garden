@@ -20,11 +20,10 @@ Open decisions and next steps. Check items off (`[x]`) or tell Claude, and Claud
 - [x] **Storylines pass** (`storylines.md`; finished 2026-10-13).
 - [ ] **Astral Trek pass** (`storylines/astral-trek/storyline.md`).
 
-## Episode 1 rewrite
+## Episode 1
 
-- [ ] **Finish the review passes above.**
-- [ ] **List your favorite scenes** to keep. So far: Ship opening the golden portal to Illithus.
-- [ ] **Say "go"**, and Claude rewrites Episode 1 from scratch.
+- [ ] **Finish the Astral Trek pass above.**
+- [ ] **Generate Episode 1**: give an AI the hosted URL of `storylines/astral-trek/prompt.md`.
 
 ## Housekeeping
 
