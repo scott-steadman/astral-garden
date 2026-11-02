@@ -29,7 +29,7 @@ AIs read the files straight from GitHub, so pushing to `main` is what publishes 
 
 | Path | What it is |
 | --- | --- |
-| `storyline.md` | Format, timeline, tone, ship, captain's habits, Kono, episodes, arcs, end-of-episode sections. |
+| `storyline.md` | Format, timeline, tone, what people know, ship, captain and mascot traits, episodes, arcs, end-of-episode sections. |
 | `prompt.md` | The prompt for the next episode. Holds only what is specific to that episode. |
 | `drafts/` | Candidate drafts, one per AI run: `new.md` until Claude renames it `NN-model.md`. A kept draft is a symlink into `episodes/`. |
 | `episodes/` | Episodes Scott keeps, named `NN-title-slug.md`. |

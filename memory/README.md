@@ -1,6 +1,6 @@
 # Project memory
 
-What a new AI session would otherwise have to ask Scott again. One file per subject. Current as of 2026-10-31.
+What a new AI session would otherwise have to ask Scott again. One file per subject. Current as of 2026-11-02.
 
 - [project.md](project.md): the goal, the plan, and where things stand.
 - [scott-preferences.md](scott-preferences.md): how Scott wants stories written and decisions handled.

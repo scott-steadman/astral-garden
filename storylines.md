@@ -5,14 +5,13 @@ How stories in the Astral Garden are written: guidance for every storyline, open
 ## Guidance for every storyline
 
 - Theme: **the role of reason in a world of magic.** Problems are solved by someone understanding how a thing works, not only by hitting harder.
-- Craft: every scene advances the story and is interesting on its own; add sounds and smells, especially in character introductions; long sentences slow pace, short ones speed it; flashbacks and introspection slow pace.
+- Craft: every scene advances the story and is interesting on its own; long sentences slow pace, short ones speed it; flashbacks and introspection slow pace.
 - Point of view: each storyline (and format) chooses its own, recorded in its `storyline.md` file.
-- Federation knowledge: how much of the bible the Federation knows (the Blood War, for example) is set per storyline, in its `storyline.md` file.
+- The bible is for the writer, not the characters. Its facts shape events, but most are unknown in-world. Characters learn them only from evidence, and may hold partial or wrong theories. Unless the storyline file lists a fact as known, no one states it as settled, and neither does the narration.
 - Ships switching vessels: nothing prevents a ship's soul from switching between a phylactery and reincarnation, so further down the timeline there may be ships that have switched, one way or the other (bible: Ships, Ensouled ships).
 - Ships talking to each other: stories can include scenes of ensouled and organic ships talking among themselves about what they've discovered, for example over a conference call. Such a scene makes a good cold open.
-- Terminology: say "whole soul", never "un-sundered". Keep the three kinds of instant travel distinct: *shifting*, *teleporting* and *portaling* (bible: Instant travel).
+- Terminology: keep the three kinds of instant travel distinct: *shifting*, *teleporting* and *portaling* (bible: Instant travel). Say "magnitude", not "spell level" or "upcast": a 5th-magnitude *sending*, cast at a higher magnitude. Characters shorten it to "mag": a 5th-mag *sending*.
 - Keep it loosely based on D&D 5e.
-- Try to make it playable, but story comes first. Stories may later be adapted into D&D adventures or campaigns, and adapting a great story beats forcing a story into a playable shape. Never let playability restrict the story.
 
 ## Open questions
 

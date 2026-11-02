@@ -16,7 +16,8 @@ A D&D 5e multiverse with Iain Banks' Culture flavor.
 
 **Planes.** A plane is a world created in the astral sea and set apart from it.
 - **Kinds:** a plane where mortals live is a prime plane. Each god also has a home plane, usually near its creations and often in the same system (see Gods, Home plane).
-- **Barrier:** every plane is surrounded by a barrier that protects it from the astral sea. A prime plane's barrier is powered by the life dwelling on it: plants, animals and ensouled beings. A god's home plane's barrier is powered by its god.
+- **Barrier:** every plane is surrounded by a barrier that protects it from the astral sea. A prime plane's barrier is powered by the life dwelling on it: plants, animals and ensouled beings. A god's home plane's barrier is powered by its god. The creators set the inner and outer appearance. Generally it's stars from the inside and transparent from the outside.
+- **Contents:** the contents can be whatever the creators decide: flat discs, spherical planets, rings... with or without moons and suns.
 - **Dead planes:** a plane whose barrier is gone is exposed to the astral sea and decays slowly, and part of that decay is breaking apart into debris.
 
 **Surviving the astral sea.** Unlike D&D's Astral Plane, beings in the astral sea still need to eat and drink to stay alive. The astral sea is breathable.
@@ -107,9 +108,9 @@ The Astral Federation is like Starfleet: a young idealistic alliance with ranks 
   - **Headings:** for maneuvering, ships use a bearing and an elevation from their own position ("heading 040 mark 12"). Coordinates find a system; headings steer the ship.
   - **Devils** chart the same way, but with the First Hell at the origin and their own units, so converting between Federation and Hell charts takes work.
   - **Demons** keep no charts.
-- **Communication is instantaneous over any distance** via the *sending* spell or upcast variants. Table:
+- **Communication is instantaneous over any distance** via the *sending* spell or higher-magnitude variants. Table:
 
-  | Level | Effect | Duration | Participants |
+  | Magnitude | Effect | Duration | Participants |
   |---|---|---|---|
   | 3rd | *Sending*: one 25-word message and reply | instant | 2 |
   | 4th | Open channel | 1 minute | 4 |
@@ -119,13 +120,13 @@ The Astral Federation is like Starfleet: a young idealistic alliance with ranks 
   | 8th | Conference call | 10 days (one Federation week) | 64 |
   | 9th | Permanent conference call | permanent | any number attuned to its focus |
 
-  - Participant counts double with each level. A captain's logbook, which copies itself to its twin at HQ, is a permanent 9th-level link built into the ship. Fleet HQ runs permanent channels to each ship; ships can open conference calls among themselves.
+  - Participant counts double with each magnitude. Fleet HQ runs permanent channels to each ship; ships can open conference calls among themselves.
 - **Ranks** (Starfleet-style, naval): Captain, Commander, Lieutenant Commander, Lieutenant, Ensign; enlisted are Senior Crewmate and Crewmate (the same for every species). Informally, crewmates get affectionate crew-plus-species nicknames, like "skipper" for a captain: a gnome is a "crewgnome", an elf a "crewelf", a dwarf a "crewdwarf". They're used fondly, never on official logs. "Acting" can go in front of any rank when someone fills a role above their own. Department heads are job titles, not ranks: Chief Religionist, Chief Arcanist, Chief Tinkerer, Security Chief (each also holds a rank, e.g. a Chief Arcanist who is a Lieutenant Commander).
 - Away teams are designated by the captain (numbers, names, colors, anything), and the scheme tells readers something about that captain. Teams wear earpiece communicators that grant the effect of the *tongues* spell: the wearer understands any spoken language, and anyone who speaks a language understands the wearer. Delegations wear earpieces that provide both *tongues* and mind-shielding; the shield warms under telepathic pressure.
 - **Instant travel** comes in three kinds:
   - **Shifting**: instantaneous movement between ships and/or planes (an ensouled ship shifting an away team down to a plane, or a drone shifting itself back aboard, usually via a magic item). Shifting to a plane needs a totem made from its materials (see The astral sea, Travel), so before a ship can shift an away team down, it usually portals a drone in to gather totem components.
   - **Teleporting**: instantaneous movement between two locations on the same plane or ship.
-  - **Portaling** (also called a dimension door): opening a passageway, a wormhole, between ships and/or planes that other beings pass through. Upcasting the *dimension door* can make the portal larger (big enough for multiple beings or ships to pass through), longer-lasting, or both. Ensouled ships express themselves through their portals: how a ship's dimension doors appear and what they look like is a personal signature.
+  - **Portaling** (also called a dimension door): opening a passageway, a wormhole, between ships and/or planes that other beings pass through. Casting the *dimension door* at a higher magnitude can make the portal larger (big enough for multiple beings or ships to pass through), longer-lasting, or both. Ensouled ships express themselves through their portals: how a ship's dimension doors appear and what they look like is a personal signature.
 
 ### Ships
 
@@ -152,7 +153,7 @@ The Astral Federation is like Starfleet: a young idealistic alliance with ranks 
   - **Structure:** the Abyss is a single planar system; each assimilated plane becomes one of its layers.
   - **Assimilation, not contracts:** unlike the Hells, the Abyss absorbs planes of any kind (prime planes, gods' home planes, whole planar systems) as new layers. Their greatest target is the Hells themselves; the Styx carries their hordes there.
   - **Abyssal anchors** are the means by which demons pull a plane through the astral sea to the Abyss for assimilation. Demons don't assimilate planes without barriers, such as a slain god's decaying home plane. Abyssal anchors don't work on the Hells, so the demons can only take them by war.
-  - **Harbingers** are how demons find planes. Few demons can sustain themselves in the open astral sea, but harbingers can. Demons scatter them by the thousands, like dandelion seeds. Most never find anything, since the astral sea is mostly empty.
+  - **Harbingers** are how demons find planes. Few demons can sustain themselves in the open astral sea, but harbingers can. Demons scatter them by the thousands, like dandelion seeds. Most never find anything, since the astral sea is mostly empty. They are soulless, easily killed, and don't return to their plane when they die. Each is an extension of its maker's will, something like a demon's drone, so a harbinger is not itself a fiend. News of a find reaches the demon only through the summons.
     - **Outside the barrier:** a harbinger can't cross a plane's barrier, so it works from outside, reaching in psychically for a would-be warlock. It deceives rather than bargains, posing as a fey, a celestial or a dead ancestor, or promising power to defeat one's enemies. Later it convinces the warlock to summon the demon who created it.
     - **The summons is the invitation:** the summons carries the demon through the barrier, past any law barring fiends (see Gods, Planes' laws). The demon brings an abyssal anchor and opens a portal for the horde to follow.
     - **Ships have no barrier**, so a harbinger that comes across one can simply attack and try to board it.

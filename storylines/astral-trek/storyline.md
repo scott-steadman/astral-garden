@@ -5,38 +5,57 @@ The episodic storyline in the Astral Garden. Shared world rules live in `../../b
 ## Format
 
 - Star Trek-style episodes. Each is self-contained, **up to an hour's read** (at most about 15,000 words; aim for 10,000 to 12,000), with a light series arc.
-- Tone: serious stakes, warm crew, regular humor (Kono, Ship's showing off). Not grimdark.
+- Tone: serious stakes, warm crew, regular humor (the mascot, and Ship's sense of humor, perhaps witty repartee between them). Not grimdark.
 - Timeline: the series begins in **year 1** of the Federation's calendar (stardates like 1.693; bible: Calendar). The Federation is young, so ensouled ships are rare and new. Ships use drones; there are no avatars yet.
 - Structure: Episodes usually open with a captain's log to set things up, but that is a habit, not a rule; vary it when another opening works better. Logs can also bridge scenes and carry exposition.
-- The captain's log: the captain writes the entry by hand in the logbook, signs it, closes the book and stows it in a compartment in the captain's chair. Its twin logbook at Fleet HQ updates as the captain writes (bible: Communication).
-- Blood War (storyline-specific): in Astral Trek, **devils and demons are known** to the Federation, but **the Blood War between them is not**. Glimpses of it can come gradually.
+- The captain's log: the captain dictates the entry to Ship, who may add a comment she didn't ask for. How logs are stored or reach the Fleet is up to the writer, if it's relevant.
+- Crew logs: anyone aboard can dictate a log to Ship at any time. They're private unless the speaker or Fleet rules say otherwise, so Ship may hear things he can't repeat.
+- Ship's own log: an occasional option, but not the episode's opening.
 - Quiet circle (storyline-specific): doesn't exist yet.
 - Characters' abilities should be recognizable as D&D 5e classes and spells, but never weaken a scene to keep it rules-accurate.
+- Levels stay behind the scenes: never state a ship's or character's level in the story. Use level privately, when it's relevant to the story, to judge how powerful a being is and which 5e abilities they have.
+- Feel free to riff on the premise or dilemma of an actual Star Trek episode, but don't retell the episode.
+
+## What people know (year 1)
+
+The bible is for the writer (see `storylines.md`). At the start of the series:
+
+- **Known:** Federation operations (calendar, charts, *sending*, ranks, totems, shifting, teleporting and portaling), how magic works in practice, and that gods, devils and demons exist.
+- **Disputed:** what happens after death, and whether a god can die for good.
+- **Unknown:** whole and sundered souls, how true names work, harbingers, abyssal anchors, planar drift, the Blood War and the 666 belief.
+- **Drift:** the Federation doesn't know planes drift. Its charts list fixed coordinates, without the drift figures in the bible's chart format, so old entries can turn out wrong and no one knows why yet.
+- **Blood War:** devils and demons are known to the Federation, but the war between them is not. Glimpses of it can come gradually.
+- **Outsiders:** beings outside the Federation don't know how ensouled ships work yet.
+
+As episodes reveal facts, they move up this list.
 
 ## The ship: *Tranelis Selevarun*
 
-- Ensouled vessel; formerly a sea-elf bard (he/him). **Very young**: he died young and is new to being a ship, eager and a bit of a show-off; not a quiet-circle member. His bard level, then and now, is not yet decided. Speaks aloud and plays music instead of using telepathy. Calls the captain "Oh Captain, my Captain." Loves people asking about his music. Plays *Orlalassar's Battle Theme* (all action) and *Oribella's Theme* (tragic undertone). Keeps bawdy songs in his tavern by request.
-- Likes to make an entrance: his portals open as a point of light that hisses, stretches into a line, then a rectangle, then a tall ornate golden door.
+- Ensouled vessel; formerly a male sea-elf bard. New to being a ship. He has a sense of humor. The rest of his personality is the writer's choice. Decide how long he lived before joining only if it's relevant to the story (a young soul and an old one would behave very differently). Speaks aloud. Doesn't need to sleep. Plays music, including *Orlalassar's Battle Theme* (all action) and *Oribella's Theme* (tragic undertone). Keeps his bawdy songs to the tavern, at the captain's request.
+- What the crew call him (Ship, his name, initials, a nickname) is a storyline choice, not yet made. "Ship" in these files is only shorthand. The writer of Episode 1 picks, and the winning draft's choice becomes canon.
+- At the destination, his portals open as a point of light, sometimes with musical accompaniment, that stretches into a line, then a rectangle, then a tall ornate golden door. On the ship's side, the portal is a plain opening.
 - Runs most operations himself, so the bridge is usually empty except for the captain; full complement only for coordinated operations.
-- Locations: bridge (outer ring of stations facing a central **scryer**), captain's ready room, council chambers, briefing room, tavern, great hall, gymnasium, druid grove, workshops, barracks, quarters, a shrine. Stone floors.
-- Goes silent when shaken: the music stops.
+- Locations: bridge (outer ring of stations facing a central **scryer**), one room that serves as the captain's ready room, council chamber and briefing room, tavern, infirmary, druid grove, workshops, quarters, a shrine. Feel free to make up any other ship locations. Describe the ship's appearance only if it's relevant to the story.
 
 ## Crew
 
-**The captain.** Not yet created; the writer of Episode 1 invents them. Whoever they are, they keep these habits:
+**The captain.** Not yet created; the writer of Episode 1 invents her. Whoever she is, she has these traits:
 
-- 5e Paladin archetype.
-- Senses alignment by smell.
+- Human female paladin archetype.
+- Senses alignment by smell. It isn't always active: she has to focus, and rarely does.
 
-**Kono**. Faerie dragon, ship's mascot. Gossamer wings flapped for show. Hunts the ship's rodents. Gives crewmates nicknames.
+**Ship's mascot.** Not yet created; the writer of Episode 1 invents them. Whoever they are, they have these traits:
+
+- Intelligent, snarky, able to speak
+- Able to fly
+- Hunts the ship's rodents.
+- Gives crewmates nicknames.
 
 Everyone else is created in the episodes and recorded here once Scott keeps them.
 
 ## Episodes
 
-Kept episodes live in `episodes/` as `NN-title-slug.md` (for example `episodes/01-the-golden-door.md`). Candidate drafts are saved as `drafts/new.md` and renamed from their metadata to `drafts/NN-model.md` (for example `drafts/01-claude-opus-5-5.md`; add `-b`, `-c` for a second or third draft from the same model). When Scott picks a draft, it moves to `episodes/` under its title, a relative symlink takes its place in `drafts/` (`drafts/01-claude-opus-5-5.md` → `../episodes/01-the-golden-door.md`), and the episode is listed here.
-
-None yet. Episode 1 is written from `prompt.md`.
+None yet. Episode 1 is written from `prompt.md`. Kept episodes are listed here.
 
 ## Arcs
 
@@ -53,7 +72,7 @@ No arcs yet.
 
 ## Open questions
 
-- **Ship's bard level**, in life and now.
+- **Settled by the Episode 1 winner:** what the crew call Ship; his personality; any new locations; and his age and appearance if the story establishes them.
 
 ## After each episode
 
@@ -72,12 +91,13 @@ A short table:
 - Planar system(s) and locations visited
 - Point-of-view characters
 - Themes
+- Bible facts revealed: each fact from the bible that characters learned, and the evidence that showed it
 - New canon introduced: every place, people, god, object, spell, or rule you invented, one line each, marked **storyline-only** or **world-level** (a world-level fact would belong in the bible)
 - Open threads left for later episodes
 
 ### 2. Character details
 
-For every named character who appears, including any you invented, list what is true about them but **not shown in the story**: appearance details, D&D race (if appropriate), class and approximate level (if appropriate), background, what they want, what they fear, secrets, and relationships to other characters. Mark anything that contradicts or extends this file.
+For every named character who appears, including any you invented, list what is true about them but **not shown in the story**: appearance details, D&D race (if appropriate), class and approximate level (if relevant; these notes are the only place a level appears), background, what they want, what they fear, secrets, and relationships to other characters. Mark anything that contradicts or extends this file.
 
 ### 3. Story beats by plot
 

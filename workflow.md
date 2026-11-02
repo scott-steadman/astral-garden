@@ -9,7 +9,7 @@ Each storyline lives in `storylines/<name>/` with its `storyline.md`, its `promp
 1. Scott pastes the text from the storyline's `README.md` into an AI and saves its whole reply, end sections included, as `storylines/<name>/drafts/new.md`.
 2. Scott tells Claude "add draft". Claude:
    - reads the *Metadata* table and renames the file `drafts/NN-model.md`: `NN` is the two-digit episode number (from the *Episode* row, or else from `prompt.md`), `model` is the *Model* row as a lowercase slug (`Claude Opus 5.5` → `claude-opus-5-5`). If the name is taken, it adds `-b`, `-c`. If the model is "unknown", Claude asks Scott which model it was.
-   - checks the draft against the rules: length, the prompt's required characters and scenes, terminology, and the end sections the storyline file asks for. Problems are reported, not fixed.
+   - checks the draft against the rules: length, the prompt's required characters and scenes, terminology, what characters know (nothing the storyline file lists as unknown is stated as settled without evidence), and the end sections the storyline file asks for. Problems are reported, not fixed.
    - commits the draft.
 
 ## 2. Choose a winner
@@ -37,6 +37,7 @@ Claude reads the winner's end sections and gives Scott one checklist. Scott appr
   - An *Episodes* entry: title, logline, stardates, file.
   - **Characters to keep**: Claude proposes the recurring cast; Scott picks. Kept characters get entries built from *Character details*.
   - Storyline-only canon (planar systems, villains, gadgets), each in its own section.
+  - *What people know*: facts the episode revealed move up the list.
   - **Arcs**: Claude suggests arcs from the open threads and from plots that span episodes; Scott approves.
   - **Contradictions**: anything the draft marked as contradicting the storyline file, for Scott to rule on.
 - **`storylines.md`**

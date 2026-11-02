@@ -12,7 +12,7 @@ The goal of the project is for AI (Claude and others) to write stories Scott wan
 | `storylines.md` | Guidance for every story, open world questions, story hooks, and the index of formats and storylines. |
 | `workflow.md` | How an AI draft becomes canon: add a draft, choose a winner, keep it, incorporate it. For every storyline. |
 | `storylines/astral-trek/README.md` | Astral Trek's landing page: the text to paste into an AI, and the GitHub URLs. |
-| `storylines/astral-trek/storyline.md` | Astral Trek's own notes: format, ship, captain's habits, Kono, tone, arcs, end-of-episode sections. |
+| `storylines/astral-trek/storyline.md` | Astral Trek's own notes: format, tone, what people know, ship, captain and mascot traits, arcs, end-of-episode sections. |
 | `storylines/astral-trek/prompt.md` | The prompt for the next episode. An AI fetches it by GitHub URL; it points the AI at the bible and storyline files and holds only what is specific to that episode. |
 | `storylines/astral-trek/drafts/` | Candidate episode drafts, one per AI run. Save a new one as `new.md`; Claude renames it `NN-model.md` (e.g. `01-claude-opus-5-5.md`). The chosen one is a symlink into `episodes/`. See `workflow.md`. |
 | `storylines/astral-trek/episodes/` | Episodes Scott keeps, named `NN-title-slug.md` (e.g. `01-the-golden-door.md`). The chosen draft moves here; a symlink to it stays in `drafts/`. |
@@ -37,5 +37,5 @@ Each storyline has its own `storylines/<name>/storyline.md` file.
 - **The bible holds world facts only.** Character- or story-specific details go in the storyline file.
 - **Canon moves up on request.** Planar systems, villains and gadgets invented for a story live in that storyline's file, and move into the bible's *Known planar systems* only once Scott declares the story canon.
 - **Open questions** in `storylines.md` are left for stories to answer; when one is answered, record it in the bible.
-- **Terminology**: say "whole soul", never "un-sundered". *Shifting* is an instant move between ships or planes; *teleporting* is an instant move within one plane or ship; *portaling* (dimension door) opens a walk-through passage between ships or planes.
-- **Story first.** Stories may later be adapted into D&D adventures, so keep them playable where it's free, but never let playability limit the story.
+- **Terminology**: say "magnitude", not "spell level" or "upcast" (a 5th-magnitude *sending*; characters say "5th-mag"). *Shifting* is an instant move between ships or planes; *teleporting* is an instant move within one plane or ship; *portaling* (dimension door) opens a walk-through passage between ships or planes.
+- **The bible is for the writer.** Most of it is unknown in-world; each storyline file lists what its characters know.

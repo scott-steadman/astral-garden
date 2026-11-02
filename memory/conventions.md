@@ -7,6 +7,7 @@
 - **Episode workflow** (Scott, 2026-10-31): Scott saves each AI reply as `drafts/new.md`; Claude renames it from its metadata, checks it, and commits. Losing drafts are kept; kept episodes keep their end sections. Incorporation goes through one checklist Scott approves. Full steps: `workflow.md` (generic, for every storyline); each storyline's `README.md` holds its paste-in text and GitHub URLs.
 - **Storyline file naming** (Scott, 2026-10-31): `storylines/<name>/storyline.md` (was `<name>/<name>-storyline.md`; never `-setting.md`).
 - **Formats** (Scott, 2026-10-12; episodic added 2026-10-25): short form (up to ~15k words), episodic (series of short form episodes with arcs; Astral Trek is the first), long form (novella/novel), adventure (playable D&D module, 1-3 sessions), campaign (long playable arc).
-- **Terminology** (Scott): say "whole soul", never "un-sundered".
+- **Spell terms** (Scott, 2026-11-02): say "magnitude", not "spell level" or "upcast" (a 5th-magnitude *sending*); characters shorten it to "mag". Chosen over "order" and "rank" (rank collides with Federation ranks). "Level" is reserved for a being's behind-the-scenes power.
 - **Travel terms** (Scott): *shifting* = instant move between ships and/or planes; *teleporting* = instant move within one plane or ship; *portaling* (aka dimension door) = opening a walk-through passage between ships and/or planes.
+- **The bible is for the writer** (Scott, 2026-11-02): most of it is unknown in-world. Guidance is in `storylines.md`; each storyline file lists what its characters know.
 - **Open questions** in `storylines.md` are deliberately left for a story to answer; when one is settled, record it in the bible.
