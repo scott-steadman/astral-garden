@@ -25,10 +25,22 @@ Make up everyone else: the captain and the ship's mascot (with the traits the st
 1. **Open with the captain's log**, dictated to the ship the way the storyline file describes.
 2. **Ship opens a portal** with his golden-door entrance (destination is your choice), wherever it serves the story best. Let characters react to it.
 
+### Threat
+
+Keep the threat local to the planar system the episode visits: its origin and its stakes belong there. Don't introduce demons or devils in this episode, or anything tied to them (harbingers, abyssal anchors, the Blood War, the Styx).
+
+### Images
+
+Besides the images the storyline file lists under *Images*, generate:
+
+- **Every named character who appears on the page**: one image each.
+- **The ship**: from outside. If the story doesn't describe him, his look is your choice.
+- **The bridge**: make the first section's image show the bridge, or add a separate image of it if the story doesn't open there.
+
 ### Your choice
 
 Structure, point of view, what the crew call the ship, the planar system, the threat, the plot and the villain are all yours. Surprise me.
 
 ## Deliver
 
-The episode, followed by the three sections listed under *After each episode* in the storyline file.
+The episode, followed by the four sections listed under *After each episode* in the storyline file, plus the images listed under *Images* there and in this prompt. Check your work as *Before you deliver* says before you hand anything over, then package it as *Delivery* says.

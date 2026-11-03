@@ -4,7 +4,7 @@ Star Trek-style episodes in the Astral Garden. The storyline's rules, ship and c
 
 ## Generating an episode
 
-Paste this into an AI chat that can open web links:
+Paste this into an AI chat that can open web links and, ideally, generate images:
 
 ```
 Read this file and follow its instructions exactly. It links to three more files: read those completely too before you start writing.
@@ -14,7 +14,7 @@ https://raw.githubusercontent.com/scott-steadman/astral-garden/main/storylines/a
 
 If the AI can't open links, attach or paste the prompt and the three files it links to instead (listed below).
 
-Save the AI's whole reply as `drafts/new.md` and tell Claude "add draft". The rest of the process is in `../../workflow.md`.
+Save the AI's `new.tar` in `drafts/`, unpack it there with `tar xf new.tar`, and tell Claude "add draft". If the AI can't make a tar file, save its whole reply as `drafts/new.md` and its images in `drafts/new-images/` instead. The rest of the process is in `../../workflow.md`.
 
 ## GitHub URLs
 
@@ -29,7 +29,7 @@ AIs read the files straight from GitHub, so pushing to `main` is what publishes 
 
 | Path | What it is |
 | --- | --- |
-| `storyline.md` | Format, timeline, tone, what people know, ship, captain and mascot traits, episodes, arcs, end-of-episode sections. |
+| `storyline.md` | Format, timeline, tone, what people know, ship, captain and mascot traits, episodes, arcs, required images, the writer's self-check, end-of-episode sections. |
 | `prompt.md` | The prompt for the next episode. Holds only what is specific to that episode. |
-| `drafts/` | Candidate drafts, one per AI run: `new.md` until Claude renames it `NN-model.md`. A kept draft is a symlink into `episodes/`. |
-| `episodes/` | Episodes Scott keeps, named `NN-title-slug.md`. |
+| `drafts/` | Candidate drafts, one per AI run: `new.md` until Claude renames it `NN-model.md`, with its images in `NN-model-images/` and a reading copy in `NN-model.pdf`. A kept draft is a symlink into `episodes/`. A losing draft normally keeps only its PDF, not its images folder. |
+| `episodes/` | Episodes Scott keeps, named `NN-title-slug.md`, with images in `NN-title-slug-images/` and a reading copy in `NN-title-slug.pdf`. |
